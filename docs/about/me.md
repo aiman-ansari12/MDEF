@@ -1,6 +1,6 @@
 # About
 
-![](../images/Profile gif.gif)
+![Image Loading](https://raw.githubusercontent.com/aiman-ansari12/mdef/main/docs/images/Profile gif.gif)
 
 There’s a quiet beauty in recognising that every place, object, and person carries a unique story. As an architect, I don’t just witness these stories—I help shape the spaces they unfold in. Come follow me in my journey in IAAC as I explore design with different possibilities in my Masters in Design for Emergent Futures. 
 
