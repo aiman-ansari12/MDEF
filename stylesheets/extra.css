@@ -5,8 +5,8 @@
     --md-footer-bg-color--dark: white;
     --md-footer-fg-color--lighter:  rgb(32, 32, 32);
     --md-footer-fg-color--light:  rgb(32, 32, 32);
-    --mdc-typography-headline6-font-family: 'Be Vietnam', sans-serif;
-    --mdc-typography-font-family: 'Be Vietnam', sans-serif;
+    --mdc-typography-headline6-font-family: 'VLNL Sardines', sans-serif;
+    --mdc-typography-font-family: 'Aptos', sans-serif;
     --md-typeset-a-color: rgb(12, 240, 190);
 
 }
@@ -40,3 +40,31 @@
     font-weight: 300;
     font-size: 14px;
 }
+body {
+  background-color: #316181 /* Deep teal-blue */
+  color: #ffffff; /* White text for readability */
+}
+
+.md-main {
+  background-color: #316181 !important;
+}
+
+.md-content, .md-typeset {
+  color: #ffffff;  /
+}
+:root {
+  --md-typeset-a-color: #EFA8B8; /* link color */
+  --md-accent-fg-color: #FF7A9E; /* button / accent color */
+  --md-default-fg-color: #ffffff; /* main text color */
+}
+
+.md-button--primary {
+  background-color: #FF7A9E !important;
+  color: #ffffff !important;
+  border: none;
+}
+
+a:hover {
+  color: #F6C1C9 !important;
+}
+
