@@ -38,6 +38,11 @@ extra:
     - icon: fontawesome/brands/github
       link: "https://github.com/"
 
+<div class="full-width">
+This text and border will go all the way across the screen.
+</div>
+
+
 theme:
   name: material
   palette:
