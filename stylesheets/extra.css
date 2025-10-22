@@ -41,3 +41,11 @@ body {
 a:hover {
   color: #F6C1C9 !important;
 }
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3,
+.md-typeset h4 {
+  font-family: 'VLNL Sardines', sans-serif !important;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+}
