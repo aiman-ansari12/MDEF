@@ -1,5 +1,14 @@
-## Welcome
+![Profile gif](images/Profile_gif.gif)
 
-![](../images/perezoso.jpg)
+There’s a quiet beauty in recognising that every place, object, and person carries a unique story. As an architect, I don’t just witness these stories—I help shape the spaces they unfold in. Come follow me in my journey in IAAC as I explore design with different possibilities in my Masters in Design for Emergent Futures. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+With this Masters, I aim to channel that understanding into designing not simply to provide shelter, but to do so with dignity, care, and justice. I’m endlessly fascinated by how people move through spaces — how light, material, and emotion shape our sense of home, safety, and wonder. That curiosity has led me beyond blueprints and renderings, into storytelling, research, and design thinking. Here you’ll see how I get to articulate that research and thinking. 
+
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3,
+.md-typeset h4 {
+  font-family: 'VLNL Sardines', sans-serif !important;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+}
