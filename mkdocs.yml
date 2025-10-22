@@ -41,9 +41,8 @@ extra:
 theme:
   name: material
   palette:
-    # try other colors https://squidfunk.github.io/mkdocs-material/getting-started/#primary-colors
-    primary: blue
-    accent: purple
+  #316181; /* Deep teal-blue */
+    
   font:
     # See available fonts at https://fonts.google.com/
     text: Be Vietnam
