@@ -26,10 +26,13 @@ I designed Sit Tall, a prosthetic support system that helps me maintain an uprig
 The second part is a belt fitted with an adjustable magnet. I position the belt so that the magnet sits in the concave area of my lower back. When I sit, the magnet faces the copper disc on the chair, creating opposing magnetic fields. This repelling force makes it physically difficult for my back to slouch, naturally encouraging me to sit upright.
 What I like about Sit Tall is that it doesn’t just remind me to sit straight — it actually helps me in doing so. It’s a simple, physics-driven intervention that transforms posture correction from a conscious effort into an effortless physical response.
 
-<video width="640" controls>
-  <source src="../images/LVYI-1d.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<iframe width="560" height="315"
+  src="https://www.youtube.com/embed/https://youtu.be/_ZRXZwHoY0g"
+  title="YouTube video player"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
 
 
 <h2>Prototype 2 - PHold </h2>
@@ -45,5 +48,14 @@ As women, we often move through the world on alert. In crowded or chaotic places
 That concern led me to design my own solution: a foldable silicon glass that disguises itself as a bracelet. It not only compresses into a compact, wearable accessory but also incorporates pH indicators that change the color of the drink if any suspicious substance is added.
 
 With this design, I’ve created something that helps me feel safer and more at ease — a small innovation that reduces my reliance on society’s safeguards and gives me control over my own sense of security.
+
+<iframe width="560" height="315"
+  src="https://www.youtube.com/embed/https://https://youtu.be/sXQx7FnkAPI"
+  title="YouTube video player"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
+
 
 
