@@ -46,10 +46,4 @@ That concern led me to design my own solution: a foldable silicon glass that dis
 
 With this design, I’ve created something that helps me feel safer and more at ease — a small innovation that reduces my reliance on society’s safeguards and gives me control over my own sense of security.
 
-<video width="640" controls>
-  <source src="../images/LVYI-2d.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-
 
