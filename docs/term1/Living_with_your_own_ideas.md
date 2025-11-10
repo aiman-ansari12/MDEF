@@ -1,5 +1,5 @@
 # Living With Your Own Ideas
-##<h2>Prototype 1 - Sit Tall </h2>s
+##<h2>Prototype 1 - Sit Tall </h2>
 ![Image 1](../images/LVYI-1a.jpg){ align=left }
 ![Image 2](../images/LVYI-1b.jpg){ align=centre }
 ![Image 3](../images/LVYI-1c.jpg){ align=right }
