@@ -83,11 +83,21 @@ Drawing inspiration from this extraordinary adaptation, I wanted to explore whet
 ![Image 7](../images/LVYI-5C.png){ align=left }
 ![Image 7](../images/LVYI-5D.png){ align=left }
 
-##<h2>TINY POCKETS OF STORIES FOR MY SURVEILER </h2>
+##<h2>Tiny Pockets Of Stories For My Surveiler </h2>
 
 When chanced with the idea that I get to curate the experience of what my detective see's in me. I thought a lot about and decided I'll make it a game for myself - I'd challenge them to understand what I'm trying to do or show, rather than allowing them to be the ones in control. So I got red stickers and walked around aimlessly with the idea of putting the same kind of stickers for similar patterns, two for a grocery store, one for a cafe we got to regularly after class and so on. But as with life nothing goes as per your plan especially when you're adding another player into the game. So I lost my detective quite early in the game. Now the idea of this game seemed obsolete if they don't even know where to look. So I upped the game again. I sent my location in a group of my possible stalkers and then went around with the same idea of stickers but stickers as markers of how to find me. Slowly realizing I was once again doing things for them rather then for me, I started having fun with it - I left the clues but always in this tiny spots of whimsy. A street light with a funny poster, a window with a pretty reflection. 
 
 Its interesting how only when it was for someone else to see we curate and look for these tiny moments of joy, but when its just us we ignore them considering ourselves not worth our own effort? Maybe in trying to be seen, I accidentally learned how to look.
+
+##<h2>Reflections </h2>
+
+It’s in human nature to evolve with time. Yet, the more we come to understand evolution — its slowness, its quiet patience — the more restless we seem to grow with our own biology. We’ve become impatient with nature’s gradual unfolding, unwilling to wait for our bodies to adapt to the demands of our imagination. So we create prosthetics, extensions, and technologies — not merely to repair or replace, but to accelerate what evolution cannot yet deliver.
+
+This workshop, bringing together such a diverse constellation of people and ideas, made me reflect on that impatience — but also on the beauty of it. Each speaker shared how their work with prosthetics and design isn’t just about improving “efficiency,” but about expanding human experience itself. It’s not only a technical pursuit, but a philosophical one — an experiment in perception.
+
+Take Manel, the cyborg artist, who decided that temperature and air pressure need not be confined to touch or smell, but could be translated into sound — transforming the invisible forces around us into something we could hear. Or Thomas Thwaites, who chose to step outside human perception altogether, living as a goat for a week to experience the world from an entirely different sensory logic.
+
+These examples revealed something profound to me: that by changing the way we experience the world, we inevitably change the way we interpret it. And when our perceptions shift, so too do our judgments — of people, of animals, of nature itself. Perhaps, then, evolution is not only biological, but perceptual — and the tools we build are not just extensions of the body, but instruments for expanding the boundaries of what it means to be human.
 
 
 
