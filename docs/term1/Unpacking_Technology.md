@@ -82,12 +82,17 @@ According to physics, the air a vacuum pulls in must also be released—energy c
 ![Image 4](../images/UT15.jpg){ align=left }
 
 Parts Composing it:
-1. Motor blowing
-![Image 6](../images/UT8.jpg){ align=left }
 
-2. Sensing dome, with motion sensors connected to Vacuum potentiometer (used to increase and decrease intensity of voltage output)
+1.Motor blowing
+![Image 6](../images/UT8.jpg){ align=left } ;
+
+
+2.Sensing dome, with motion sensors 
+Connected to Vacuum potentiometer (used to increase and decrease intensity of voltage output)
+
 ![Image 7](../images/UT9.jpg){ align=left }
 ![Image 8](../images/UT10.jpg){ align=right }
+
 
 3.Arduino with connections to led lights, motor and motion sensors
 
@@ -112,14 +117,17 @@ Challenges are the key to innovation. For example here our aim was to effectivel
 ![Image 9](../images/UT11.png){ align=left }
 
 4.Electric box (safety purposes)
+
 ![Image 10](../images/UT12.jpg){ align=left }
 
 
 5.Airflow-concentrating funnel 
+
 The vacuum cleaner’s motor had multiple outlet points, so to focus the airflow we 3D-printed a funnel. This funnel acted both as a focal nozzle and as a protective housing for the motor.
 ![Image 11](../images/UT19.jpg){ align=left }
 
 7.Structural support frame for the motor and associated components
+
 ![Image 12](../images/UT14.jpg){ align=left }
 ![Image 13](../images/UT18.jpg){ align=left }
 
