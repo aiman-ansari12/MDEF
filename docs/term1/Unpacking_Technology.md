@@ -137,6 +137,10 @@ The vacuum cleaner’s motor had multiple outlet points, so to focus the airflow
 Zine:
 ![Image 12](../images/UT17.jpg){ align=left }
 
+<h2>Reflections: </h2>
+Theres a mystery that we like to keep with our machines. A kind of magic we like to imagine as designers when it comes to more technical and engineering based products. Breaking that barrier made me realise the importance of that act. Fianllly seeing whats underneath and realising that this is something logical, something I can understand and maybe with time recreate is worth so much.
+
+And then to further have the chance to not just learn from what we took apart, but to make soemthing completly new all on our own is a kind of wonder of its own. A wonder I hope to do more of now that I am more confident in my capabilities to do so. 
 
 
 
