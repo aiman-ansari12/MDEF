@@ -1,18 +1,10 @@
-theme:
-  name: material
-  palette:
-  #0a0094; /* Deep blue */
-  features:
-    - navigation.tabs    
-    - navigation.tabs.sticky
-
 # Unpacking Technology
 ##<h2>Taking It Apart</h2> 
 ###<h3>Case identifier:</h3> Forensics of the Obsolescence 
-<h3>Date of report:</h3> 20/11/2025 
-<h3>Subject of the reporting agency:</h3> Vacuum cleaner
+<b>Date of report:</b> 20/11/2025 
+<b>Subject of the reporting agency:</b> Vacuum cleaner
 
-![Image 1](../images/UT1-Vacuum_cleaner.jpg){ align=left }
+![Image 1](../images/UT1-Vacuum_cleaner.png){ align=left }
 
 Before going toward the junkyard of possibilities we decided to keep some parameters for ourselves while choosing the machinery we wanted to study, explore, and later transfer. A lot of modern technology is mostly electric and code based with a shell encasing the same. Having a mix of mechanical and electric played a large factor is choosing this as the subject for the workshop.
 
@@ -26,15 +18,15 @@ About the machine:
 
 
 <iframe width="560" height="315"
-  src="https://www.youtube.com/watch?v=gjFevNFWh2Q"
+  src="https://www.youtube.com/embed/gjFevNFWh2Q"
   title="YouTube video player"
   frameborder="0"
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
   allowfullscreen>
 </iframe>
 
-![Image 2](../images/UT2.jpg){ align=left }
-![Image 3](../images/UT-3.jpg){ align=right }
+![Image 2](../images/UT2.png){ align=left }
+![Image 3](../images/UT-3.png){ align=right }
 
 
 ##<h2>What does it do?</h2>
@@ -79,7 +71,7 @@ Hypothesis based on common faults for this model: The device likely failed due t
 
 <b>Primary Inspiration  – Vacuum Motor </b>
 According to physics, the air a vacuum pulls in must also be released—energy can neither be created nor destroyed. So instead of using the suction side of the vacuum motor in our new device, what if we utilize the opposite side, the one that blows air out?” 
-![Image 4](../images/UT4.jpg){ align=left }
+![Image 4](../images/UT4.png){ align=left }
 
 <b> Presenting "THE GOBLET OF MISFORTUNE"
 ![Image 4](../images/UT4.jpg){ align=left }
