@@ -117,9 +117,11 @@ Challenges are the key to innovation. For example here our aim was to effectivel
 
 5.Airflow-concentrating funnel 
 The vacuum cleaner’s motor had multiple outlet points, so to focus the airflow we 3D-printed a funnel. This funnel acted both as a focal nozzle and as a protective housing for the motor.
+![Image 11](../images/UT19.jpg){ align=left }
+
 7.Structural support frame for the motor and associated components
-![Image 11](../images/UT14.jpg){ align=left }
-![Image 12](../images/UT18.jpg){ align=left }
+![Image 12](../images/UT14.jpg){ align=left }
+![Image 13](../images/UT18.jpg){ align=left }
 
 
 #### And Together we have  
