@@ -52,7 +52,7 @@ Chassis: Made of durable ABS plastic to withstand impact and heat. It houses the
 <b>Bin:</b> The dust container is transparent polycarbonate, allowing the user to see when it is full.
 
 <iframe width="560" height="315"
-  src="https://www.youtube.com/watch?v=bFKvsB9ai_c"
+  src="https://www.youtube.com/embed/bFKvsB9ai_c"
   title="YouTube video player"
   frameborder="0"
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -87,7 +87,7 @@ Parts Composing it:
 3.Arduino with connections to led lights, motor and motion sensors
 
 <iframe width="560" height="315"
-  src="https://youtube.com/shorts/4I2kd1cIoJg?feature=share"
+  src="https://www.youtube.com/embed/4I2kd1cIoJg"
   title="YouTube video player"
   frameborder="0"
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -95,13 +95,12 @@ Parts Composing it:
 </iframe>
 
 <iframe width="560" height="315"
-  src="https://youtube.com/shorts/kYBtxWwSe8M?feature=share"
+  src="https://www.youtube.com/embed/kYBtxWwSe8M"
   title="YouTube video player"
   frameborder="0"
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
   allowfullscreen>
 </iframe>
-
 
 Challenges are the key to innovation. For example here our aim was to effectively use a motion sensor as a 'virtual' potentiometer to regulate power intensity. The challenge was enabling this adjustment without direct manual rotation of the potentiometer itself. To overcome this, we designed and 3D-printed a custom housing for the potentiometer. This setup allows a rotating servo motor to precisely turn the potentiometer, with its movement directly corresponding to the user's distance and thus adjusting the power output.
 
@@ -120,7 +119,7 @@ The vacuum cleaner’s motor had multiple outlet points, so to focus the airflow
 ##<H2>And Together we have </H2>
 ![Image 12](../images/UT15.jpg){ align=left }
 <iframe width="560" height="315"
-  src="https://youtu.be/HSaH7ao7ed8"
+  src="https://www.youtube.com/embed/HSaH7ao7ed8"
   title="YouTube video player"
   frameborder="0"
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -128,8 +127,8 @@ The vacuum cleaner’s motor had multiple outlet points, so to focus the airflow
 </iframe>
 
 <iframe width="560" height="315"
-  src="https://drive.google.com/file/d/1vnWLOiYOPbjOlvPVa9FJGPLCTp8tL2Uv/view?resourcekey"
-  title="YouTube video player"
+  src="https://drive.google.com/file/d/1vnWLOiYOPbjOlvPVa9FJGPLCTp8tL2Uv/preview"
+  title="Google Drive video player"
   frameborder="0"
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
   allowfullscreen>
