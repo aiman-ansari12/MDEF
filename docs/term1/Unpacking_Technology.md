@@ -147,10 +147,9 @@ Zine:
 
 ## Reflections:  
 
-Theres a mystery that we like to keep with our machines. A kind of magic we like to imagine as designers when it comes to more technical and engineering based products. Breaking that barrier made me realise the importance of that act. Fianllly seeing whats underneath and realising that this is something logical, something I can understand and maybe with time recreate is worth so much.
+There’s a mystery that we like to keep with our machines. A kind of magic we like to imagine as designers when it comes to more technical and engineering-based products. Breaking that barrier made me realise the importance of that act. Finally seeing what’s underneath and realising that this is something logical, something I can understand and maybe with time recreate is worth so much.
 
-And then to further have the chance to not just learn from what we took apart, but to make soemthing completly new all on our own is a kind of wonder of its own. A wonder I hope to do more of now that I am more confident in my capabilities to do so. 
-
+And then to further have the chance to not just learn from what we took apart, but to make something completely new all on our own is a kind of wonder of its own. A wonder I hope to do more of now that I am more confident in my capabilities to do so.
 
 
 
