@@ -143,7 +143,7 @@ The vacuum cleaner’s motor had multiple outlet points, so to focus the airflow
 </iframe>
 
 Zine:
-![Image 12](../images/UT17.jpg){ align=left }
+![Image 22](../images/UT17.jpg){ align=left }
 
 ## Reflections:  
 
