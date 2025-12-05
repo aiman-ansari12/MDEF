@@ -2,7 +2,7 @@
 
 ![Image 12](../images/UT16.jpg){ align=left }
 
-##<h2>Taking It Apart</h2> 
+#### Taking It Apart  
 ###<h3>Case identifier:</h3> Forensics of the Obsolescence 
 <b>Date of report:</b> 20/11/2025 
 
@@ -12,7 +12,7 @@
 
 Before going toward the junkyard of possibilities we decided to keep some parameters for ourselves while choosing the machinery we wanted to study, explore, and later transfer. A lot of modern technology is mostly electric and code based with a shell encasing the same. Having a mix of mechanical and electric played a large factor is choosing this as the subject for the workshop.
 
-<h2>Next Step : Taking it Apart </h2>
+## Next Step : Taking it Apart  
 About the machine: 
 <b>Brand:</b> Rowenta Compact Cyclonic Vacuum Cleaner
 <b>Model:</B> VC21VW0 
@@ -33,10 +33,10 @@ About the machine:
 ![Image 3](../images/UT-3.png){ align=right }
 
 
-##<h2>What does it do?</h2>
+## What does it do?
 
 The Rowenta Compacte Cyclonic (RO346301) is a bagless canister vacuum cleaner designed for domestic dry cleaning. It utilizes high-power suction (up to 1900W) to remove dust, debris, and pet hair from various floor surfaces (hardwood, tile, carpet). Unlike traditional vacuums that rely on bags to trap dirt, this device separates dust from the air stream and stores it in a reusable bin.
-<h2>How does it work?</h2>
+## How does it work?
 
 The device operates on the principle of cyclonic separation:
 <b>Suction Generation:</b> A high-speed universal electric motor creates a pressure drop, drawing air in through the nozzle and hose.
@@ -46,7 +46,7 @@ The device operates on the principle of cyclonic separation:
 <b>Filtration:</b> The partially cleaned air passes through a series of filters (foam and HEPA) to trap fine microscopic particles that escaped the cyclone.
 Exhaust: Clean air is exhausted out the back of the unit, often passing over the motor to cool it.
 
-##<h2>How it’s built?</h2>
+## How it’s built?
 The vacuum is constructed primarily of injection-molded plastics.
 Chassis: Made of durable ABS plastic to withstand impact and heat. It houses the motor bucket, cord reel, and control electronics.
 
@@ -64,7 +64,7 @@ Chassis: Made of durable ABS plastic to withstand impact and heat. It houses the
   allowfullscreen>
 </iframe>
 
-##<h2>Why did it fail, or it wasn't used anymore?</h2>
+#### Why did it fail, or it wasn't used anymore? 
 Hypothesis based on common faults for this model: The device likely failed due to motor burnout caused by airflow restriction.
 
 <b>Root Cause:</b> Users often neglect to clean the foam/HEPA filters in bagless vacuums. As the filters clog with fine dust, airflow to the motor is restricted.
@@ -72,14 +72,14 @@ Hypothesis based on common faults for this model: The device likely failed due t
 <b>Mechanism of Failure:</b> The motor relies on incoming airflow for cooling. With blocked filters, the motor overheats. Eventually, the thermal fuse trips, or the copper windings melt/short-circuit. Alternatively, the carbon brushes in the motor may have worn down completely after years of use, breaking the electrical circuit.
 
 
-##<h2> Weeek 2 - The Evolution </h2> 
+####  Weeek 2 - The Evolution   
 
 <b>Primary Inspiration  – Vacuum Motor </b>
 According to physics, the air a vacuum pulls in must also be released—energy can neither be created nor destroyed. So instead of using the suction side of the vacuum motor in our new device, what if we utilize the opposite side, the one that blows air out?” 
 ![Image 4](../images/UT4.png){ align=left }
 
 <b> Presenting "THE GOBLET OF MISFORTUNE" </b>
-![Image 4](../images/UT4.jpg){ align=left }
+![Image 4](../images/UT15.jpg){ align=left }
 
 Parts Composing it:
 1. Motor blowing
@@ -122,7 +122,7 @@ The vacuum cleaner’s motor had multiple outlet points, so to focus the airflow
 ![Image 12](../images/UT18.jpg){ align=left }
 
 
-##<H2>And Together we have </H2>
+#### And Together we have  
 ![Image 12](../images/UT15.jpg){ align=left }
 <iframe width="560" height="315"
   src="https://www.youtube.com/embed/HSaH7ao7ed8"
@@ -143,7 +143,7 @@ The vacuum cleaner’s motor had multiple outlet points, so to focus the airflow
 Zine:
 ![Image 12](../images/UT17.jpg){ align=left }
 
-<h2>Reflections: </h2>
+## Reflections:  
 Theres a mystery that we like to keep with our machines. A kind of magic we like to imagine as designers when it comes to more technical and engineering based products. Breaking that barrier made me realise the importance of that act. Fianllly seeing whats underneath and realising that this is something logical, something I can understand and maybe with time recreate is worth so much.
 
 And then to further have the chance to not just learn from what we took apart, but to make soemthing completly new all on our own is a kind of wonder of its own. A wonder I hope to do more of now that I am more confident in my capabilities to do so. 
