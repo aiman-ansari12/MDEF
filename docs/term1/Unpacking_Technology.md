@@ -79,7 +79,7 @@ According to physics, the air a vacuum pulls in must also be released—energy c
 ![Image 4](../images/UT4.png){ align=left }
 
 <b> Presenting "THE GOBLET OF MISFORTUNE" </b>
-![Image 4](../images/UT15.jpg){ align=left }
+![Image 4](../images/UT20.jpg){ align=left }
 
 Parts Composing it:
 
@@ -151,7 +151,7 @@ The vacuum cleaner’s motor had multiple outlet points, so to focus the airflow
 </iframe>
 
 Zine:
-![Image 22](../images/UT17.jpg){ align=left }
+![Image 22](../images/UT99.jpg){ align=left }
 
 ## Reflections:  
 
