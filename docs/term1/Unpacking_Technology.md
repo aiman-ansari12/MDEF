@@ -1,7 +1,11 @@
 # Unpacking Technology
+
+![Image 12](../images/UT16.jpg){ align=left }
+
 ##<h2>Taking It Apart</h2> 
 ###<h3>Case identifier:</h3> Forensics of the Obsolescence 
 <b>Date of report:</b> 20/11/2025 
+
 <b>Subject of the reporting agency:</b> Vacuum cleaner
 
 ![Image 1](../images/UT1-Vacuum_cleaner.png){ align=left }
@@ -11,7 +15,7 @@ Before going toward the junkyard of possibilities we decided to keep some parame
 <h2>Next Step : Taking it Apart </h2>
 About the machine: 
 <b>Brand:</b> Rowenta Compact Cyclonic Vacuum Cleaner
-<b>Model: VC21VW0
+<b>Model:</B> VC21VW0 
 <b>Serial number:</b> R0346301 / RO346301
 <b>Colour:</b> ORANGE (plastic), BLACK (plastic), BLACK (resin)
 <b>Made in:</b> Germany, Romania, Spain, China, France, International
@@ -30,8 +34,9 @@ About the machine:
 
 
 ##<h2>What does it do?</h2>
+
 The Rowenta Compacte Cyclonic (RO346301) is a bagless canister vacuum cleaner designed for domestic dry cleaning. It utilizes high-power suction (up to 1900W) to remove dust, debris, and pet hair from various floor surfaces (hardwood, tile, carpet). Unlike traditional vacuums that rely on bags to trap dirt, this device separates dust from the air stream and stores it in a reusable bin.
-How does it work?
+<h2>How does it work?</h2>
 
 The device operates on the principle of cyclonic separation:
 <b>Suction Generation:</b> A high-speed universal electric motor creates a pressure drop, drawing air in through the nozzle and hose.
@@ -73,7 +78,7 @@ Hypothesis based on common faults for this model: The device likely failed due t
 According to physics, the air a vacuum pulls in must also be released—energy can neither be created nor destroyed. So instead of using the suction side of the vacuum motor in our new device, what if we utilize the opposite side, the one that blows air out?” 
 ![Image 4](../images/UT4.png){ align=left }
 
-<b> Presenting "THE GOBLET OF MISFORTUNE"
+<b> Presenting "THE GOBLET OF MISFORTUNE" </b>
 ![Image 4](../images/UT4.jpg){ align=left }
 
 Parts Composing it:
@@ -114,7 +119,8 @@ Challenges are the key to innovation. For example here our aim was to effectivel
 The vacuum cleaner’s motor had multiple outlet points, so to focus the airflow we 3D-printed a funnel. This funnel acted both as a focal nozzle and as a protective housing for the motor.
 7.Structural support frame for the motor and associated components
 ![Image 11](../images/UT14.jpg){ align=left }
-![Image 12](../images/UT13.jpg){ align=left }
+![Image 12](../images/UT18.jpg){ align=left }
+
 
 ##<H2>And Together we have </H2>
 ![Image 12](../images/UT15.jpg){ align=left }
