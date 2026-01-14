@@ -1,5 +1,5 @@
 # Fundamentals of Future Making
-![Image 1](../images/FOFM_01.jpg }
+![Image 1](../images/FOFM_01.jpg){ align=left }
 
 Through this course we had engaging discussions and assignments with a wide range of tools and processes including laser cutting, CNC, 3D printing, silicone molding, and bio-material casting. The joy of not learning by seeing but by actually doing is like none other, and to have a physical manifestation of those learning and those errors is a valuable lesson indeed.
 
