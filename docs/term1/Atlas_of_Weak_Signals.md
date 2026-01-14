@@ -1,4 +1,4 @@
-# Living With Your Own Ideas
+# Atlas of Weak Signals
 ![Image 1](../images/group_aows_1.png){ align=left }
 
 ##Poison Piling
