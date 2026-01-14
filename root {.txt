@@ -1,0 +1,70 @@
+:root>* {
+
+    --md-footer-bg-color: white;
+    --md-footer-fg-color: rgb(32, 32, 32);
+    --md-footer-bg-color--dark: white;
+    --md-footer-fg-color--lighter:  rgb(32, 32, 32);
+    --md-footer-fg-color--light:  rgb(32, 32, 32);
+    --mdc-typography-headline6-font-family: 'VLNL Sardines', sans-serif;
+    --mdc-typography-font-family: 'Aptos', sans-serif;
+    --md-typeset-a-color: rgb(12, 240, 190);
+
+}
+
+
+.hide-scroll-bar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+  .hide-scroll-bar::-webkit-scrollbar {
+    display: none;
+  }
+
+  .md-typeset .md-button--primary {
+    border-width: 1px;
+    border-color: rgb(219, 219, 219);
+    border-radius: 4px;
+  }
+
+.cardContent {
+  padding: 16px;
+  font-size: 16px;
+  color: rgb(32, 32, 32);
+}
+
+.md-typeset h2 {
+    font-weight: 500;
+}
+
+.mdc-typography--body2 {
+    font-weight: 300;
+    font-size: 14px;
+}
+body {
+  background-color: #316181 /* Deep teal-blue */
+  color: #ffffff; /* White text for readability */
+}
+
+.md-main {
+  background-color: #316181 !important;
+}
+
+.md-content, .md-typeset {
+  color: #ffffff;  /
+}
+:root {
+  --md-typeset-a-color: #EFA8B8; /* link color */
+  --md-accent-fg-color: #FF7A9E; /* button / accent color */
+  --md-default-fg-color: #ffffff; /* main text color */
+}
+
+.md-button--primary {
+  background-color: #FF7A9E !important;
+  color: #ffffff !important;
+  border: none;
+}
+
+a:hover {
+  color: #F6C1C9 !important;
+}
+
