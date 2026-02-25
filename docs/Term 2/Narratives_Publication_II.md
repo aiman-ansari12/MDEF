@@ -1,7 +1,7 @@
 # Narratives - Publication
 
 
-##Snapshot - Armin 
+##Peer Review Snapshot - Armin 
 ![Image 1](../images/NP_Snapshot-Armin.png){ align=left }
 Based on the speed questionnaire and a detailed discussion with Armin, I created this collage-style pictograph to represent his project. The work explores an analytical study of people’s reliance on AI to complete tasks, examining the moral and sociological implications this dependence has on individuals as well as on the broader functioning of society. It further investigates the growing use of AI in professional settings, particularly how this increasing reliance may gradually limit or reshape creative thinking.
 
