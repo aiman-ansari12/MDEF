@@ -1,6 +1,7 @@
 # Extended Intelligence II
 
-![Image 12](../images/UT16.jpg){ align=left }
+![Image 12](../images/EI2_01.jpg){ align=left }
+![Image 12](../images/EI2_02.jpg){ align=right }
 
 Doing this exercise—where we didn’t just learn about LLMs but actually stepped into the role of the people behind one—felt genuinely important. It shifted my relationship with AI from something I passively use to something I actively question and understand. That shift alone made the process feel worthwhile, especially in thinking about how we might engage with these systems more thoughtfully in the future.
 
