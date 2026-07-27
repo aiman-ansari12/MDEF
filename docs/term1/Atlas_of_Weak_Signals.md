@@ -1,4 +1,5 @@
 # Atlas of Weak Signals
+##Term 1:
 ![Image 1](../images/group_aows_1.png){ align=left }
 
 ##Poison Piling
@@ -16,4 +17,21 @@ We also had  visual depiction of the same:
 ![Image 2](../images/aows_4.jpeg){ align=centre }
 
 As a group we spent time discussing relevant topics to this such as Repair workshops, Sudan protests and creative ways to resist, parasitic architecture, anarchist cookbooks. Its fascinating how one trigger topic can open such a variety of discussions and topics. 
+
+##Term 2
+###Siganls
+![Image 3](../images/Atlas_Term_2-01.png){ align=left }
+
+###Oppurtunities
+![Image 4](../images/Atlas_Term_2-02.png){ align=left }
+
+###Triggers
+![Image 5](../images/Atlas_Term_2-03.png){ align=left }
+
+##Term 3
+Worked on packaging team
+Team members- Mariam Shojaei and Aiman Ansari
+![Image 5](../images/AOWS_pk-01.png){ align=left }
+
+
 
