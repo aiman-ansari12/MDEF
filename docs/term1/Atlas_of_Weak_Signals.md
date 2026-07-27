@@ -19,7 +19,7 @@ We also had  visual depiction of the same:
 As a group we spent time discussing relevant topics to this such as Repair workshops, Sudan protests and creative ways to resist, parasitic architecture, anarchist cookbooks. Its fascinating how one trigger topic can open such a variety of discussions and topics. 
 
 ##Term 2
-###Siganls
+###Sigals
 ![Image 3](../images/Atlas_Term_2-01.png){ align=left }
 
 ###Oppurtunities
